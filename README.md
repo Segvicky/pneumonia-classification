@@ -1,6 +1,6 @@
-# pneumonia_class
+# Classification of pneumonia in the chest
 
-Chest Pneumonia Classification using the MONAI Pytorch
+Pneumonia Classification using the MONAI Pytorch
 
 What is MONAI?
 https://github.com/Project-MONAI/MONAI
